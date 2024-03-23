@@ -1,0 +1,22 @@
+---
+enable: true
+topTitle: Testimonials
+title: >
+  ## What Do Professionals Think of Me?
+
+testimonial:
+  - name: Matt Dancho
+    title: Founder, CEO of Business Science University 
+    image: "/images/testimonial/matt.jpg"
+    comment: ""
+    star: 5
+  - name: Fazil Rasheed
+    title: Professor at Conestoga Colege Institue of Technology and Advanced Learning
+    image: "/images/testimonial/Fazil.png"
+    comment: ""
+    star: 5
+  - name: NO Name
+    title: TBD
+    image: "/images/testimonial/"
+    comment: ""
+    star: 5

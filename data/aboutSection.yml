@@ -1,0 +1,21 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## Mehdi Yazdanian is
+
+  A professional engineer experienced in energy and education sectors.
+content: >
+  ### Mehdi looks for any un-solved porblems or examine new prospective of solved ones to.
+
+  design and present applications that his audience can find the answer pretain to thier input cicumetances.
+  These applications should predict, evaluate and eventually render value for end-users.
+  
+  My family are the most important thing in the world.
+  Traveling, watching classical or international movies, reading social and political articles/books and workout are items that I do my best to accomodate them in my life
+button1Name: LinkedIn
+button2Name: Download CV
+button1Target: https://www.linkedin.com/in/mehdiyazdanian/
+button2Target: "/cv/mehdiyazdanian_resume.pdf"
+image: images/hero/my_pic.png
+imageMaskPosition: 70px 0px
