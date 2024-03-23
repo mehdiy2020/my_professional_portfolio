@@ -13,7 +13,7 @@
       <link>//localhost:4321/blog/markdown-formatting-demo/</link>
       <pubDate>Sun, 28 Apr 2024 12:49:27 +0600</pubDate>
       <guid>//localhost:4321/blog/markdown-formatting-demo/</guid>
-      <description>Let me start re-phrasing a quote that I heard in a Data Science PodCast&#xA;/This example Markdown file compliments of markdown-it.github.io/&#xA;h1 Heading 8-) h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Horizontal Rules Typographic replacements Enable typographer option to see result.&#xA;(c) (C) (r) (R) (tm) (TM) (p) (P) +-&#xA;test.. test&amp;hellip; test&amp;hellip;.. test?&amp;hellip;.. test!&amp;hellip;.&#xA;!!!!!! ???? ,, &amp;ndash; &amp;mdash;&#xA;&amp;ldquo;Smartypants, double quotes&amp;rdquo; and &amp;lsquo;single quotes&amp;rsquo;&#xA;Emphasis This is bold text</description>
+      <description>This example Markdown file compliments of markdown-it.github.io&#xA;Let me start re-phrasing a quote that I heard in a Data Science PodCast h1 Heading 8-) h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Horizontal Rules Typographic replacements Enable typographer option to see result.&#xA;(c) (C) (r) (R) (tm) (TM) (p) (P) +-&#xA;test.. test&amp;hellip; test&amp;hellip;.. test?&amp;hellip;.. test!&amp;hellip;.&#xA;!!!!!! ???? ,, &amp;ndash; &amp;mdash;&#xA;&amp;ldquo;Smartypants, double quotes&amp;rdquo; and &amp;lsquo;single quotes&amp;rsquo;&#xA;Emphasis This is bold text</description>
     </item>
   </channel>
 </rss>
