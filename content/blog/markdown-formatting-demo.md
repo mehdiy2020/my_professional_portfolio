@@ -5,9 +5,9 @@ postImage: images/single-blog/feature-image.jpg
 title: WHY I AM HERE?
 ---
 
-### Let me start re-phrasing a quote that I heard in a Data Science PodCast 8-)
+Let me start re-phrasing a quote that I heard in a Data Science PodCast
 
-This example Markdown file compliments of [markdown-it.github.io](https://markdown-it.github.io/)
+/*This example Markdown file compliments of [markdown-it.github.io](https://markdown-it.github.io/)*/
 
 ---
 
