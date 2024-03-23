@@ -1,9 +1,11 @@
 ---
-date: "2020-09-13T12:49:27+06:00"
+date: "2024-04-28T12:49:27+06:00"
 featureImage: images/allpost/allPost-6.jpg
 postImage: images/single-blog/feature-image.jpg
-title: Markdown Formatting Demo
+title: WHY I AM HERE?
 ---
+
+### Let me start re-phrasing a quote that I heard in a Data Science PodCast 8-)
 
 This example Markdown file compliments of [markdown-it.github.io](https://markdown-it.github.io/)
 
