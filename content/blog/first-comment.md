@@ -1,7 +1,7 @@
 ---
 date: "2024-03-23T12:49:27+06:00"
-featureImage: images/allpost/allPost-6.jpg
-postImage: images/single-blog/feature-image.jpg
+featureImage: images/allpost/mehdi_logo.png
+postImage: images/single-blog/alhamra.jpg
 title: Why I am Here?
 ---
 
