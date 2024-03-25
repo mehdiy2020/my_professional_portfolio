@@ -13,7 +13,7 @@ At the same time there must a clear goal for it. The goal that increases tangibl
 
 #### What I do in late March to end of April 2024:
 
-- Review [Data Science for Business Part 2](https://university.business-science.io/p/hr201-using-machine-learning-h2o-lime-to-predict-employee-turnover),[^second]
+- Review [Data Science for Business Part 2](https://university.business-science.io/p/hr201-using-machine-learning-h2o-lime-to-predict-employee-turnover),[^first]
 - Progress on "An Introduction to Statistical Learning with Application in R (BOOK - Second Edition)", and
 - Upgrade my Webdesign Skill learning more about SASS (Start Working on my Personal Website)
 
