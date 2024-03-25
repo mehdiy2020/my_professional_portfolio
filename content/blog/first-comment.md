@@ -9,4 +9,14 @@ This is re-phrasing of a quote from a podcast: "to be a winner in any arguments 
 
 At the same time there must a clear goal for it. The goal that increases tangible and intangible values for any stakeholders and un-tie a possible convoluted tie [^first].
 
+----
+
+#### What I do in late March 2024 to End of April 2024 [^second]:
+
+- Review [Data Science for Business Part 2] (https://university.business-science.io/p/hr201-using-machine-learning-h2o-lime-to-predict-employee-turnover),
+- Progress on "An Introduction to Statistical Learning with Application in R (BOOK - Second Edition)", and
+- Upgrade my Webdesign Skill learning more about SASS (Start Working on my Personal Website)
+
 [^first]: PICTURE: I saw coding on the Alhamra and Nasrid Places located in Granada, Andalusia, Spain. Would not you?!
+
+[^second] : The skill section of portfolio will be updated monthly
