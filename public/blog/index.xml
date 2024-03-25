@@ -13,7 +13,7 @@
       <link>//localhost:4321/blog/first-comment/</link>
       <pubDate>Sat, 23 Mar 2024 12:49:27 +0600</pubDate>
       <guid>//localhost:4321/blog/first-comment/</guid>
-      <description>This example Markdown file compliments of markdown-it.github.io&#xA;h1 Heading 8-) h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Horizontal Rules Typographic replacements Enable typographer option to see result.&#xA;(c) (C) (r) (R) (tm) (TM) (p) (P) +-&#xA;test.. test&amp;hellip; test&amp;hellip;.. test?&amp;hellip;.. test!&amp;hellip;.&#xA;!!!!!! ???? ,, &amp;ndash; &amp;mdash;&#xA;&amp;ldquo;Smartypants, double quotes&amp;rdquo; and &amp;lsquo;single quotes&amp;rsquo;&#xA;Emphasis This is bold text&#xA;This is bold text&#xA;This is italic text&#xA;This is italic text</description>
+      <description>This is re-phrasing of a quote from a podcast: &amp;ldquo;to be a winner in any arguments you need data science along with its nuts and bolts&amp;rdquo;. But this has another side to it. I am not into defeat anyone to be a winner. I am here to enjoy revealing unbidden fact. However, when data scientists &amp;ldquo;Reject&amp;rdquo; or &amp;ldquo;Fail to Reject&amp;rdquo; any hypothesis, their argument(s) place them on the winner side.</description>
     </item>
   </channel>
 </rss>
