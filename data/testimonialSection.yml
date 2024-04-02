@@ -8,7 +8,14 @@ testimonial:
   - name: Matt Dancho
     title: Founder, CEO of Business Science University 
     image: "/images/testimonial/matt.jpg"
-    comment: "Will be Updated soon"
+    comment: "My name is Matt Dancho, Founder of Business Science and Lead Educator at Business
+Science University. I had the pleasure of working with Mehdi over the past 6-months as part of
+an accelerated data science program that has focused on applying data science to business.
+I am confident that Mehdi will be an
+excellent fit for data science positions that involve challenging business problems and a desire
+to make better business decisions.
+Feel free to contact me at mdancho@business-science.io if you have any questions.
+"
     star: 5
   - name: Fazil Rasheed
     title: Professor at Conestoga Colege Institue of Technology and Advanced Learning
