@@ -16,8 +16,6 @@ skill:
   - title: Shiny/Dash Apps
     percent: 70
   - title: SQL
-    percent: 60
+    percent: 50
   - title: Power Query - Power BI
-    percent: 70
-  - title: Python
     percent: 50
