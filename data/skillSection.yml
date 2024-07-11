@@ -10,12 +10,10 @@ image: images/hero/my_pic.png
 
 skill:
   - title: R (Tidyverse)
-    percent: 75
-  - title: R (General)
-    percent: 75
+    percent: 80
   - title: Shiny/Dash Apps
     percent: 70
-  - title: SQL
-    percent: 50
-  - title: Power Query - Power BI
+  - title: Excel/Power Query
+    percent: 90
+  - title: Python
     percent: 50

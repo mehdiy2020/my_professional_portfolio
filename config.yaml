@@ -40,9 +40,3 @@ params:
     - icon: fa-linkedin-square
       url: https://www.linkedin.com/in/mehdiyazdanian/
       weight: 1
-    - icon: fa-youtube-square
-      url: https://www.youtube.com/channel/UCau5DXvAM3okdvBgn9XRfsQ
-      weight: 2
-    - icon: fa-twitter-square
-      url: https://twitter.com/MY_DataTalks
-      weight: 3
