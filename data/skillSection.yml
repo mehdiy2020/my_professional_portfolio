@@ -9,11 +9,11 @@ content: >
 image: images/hero/my_pic.png
 
 skill:
-  - title: R (Tidyverse)
-    percent: 80
-  - title: Shiny/Dash Apps
+  - title: R(Tidyverse)|Shiny
     percent: 70
-  - title: Excel/Power Query
-    percent: 90
   - title: Python
+    percent: 70
+  - title: HTML | CSS
+    percent: 60
+  - title: Generative AI (Langchain | Huggingface)
     percent: 50

@@ -4,7 +4,7 @@ topTitle: My Resume
 title: >
   ## My Experience & Education
 
-  Over 15+ years of experience as a Professional Engineer I am all-in the Data Science / Business Analysis .
+  Professional Engineer | 15+ Years of Global Experience in Engineering & Advanced AI/Data Science
 
 buttonName: "Download Resume PDF"
 buttonTarget: "/cv/mehdiyazdanian_resume.pdf"
@@ -20,18 +20,21 @@ experience:
   
       ### Data Science | Analysis
       
-      - Concern about "Global Warming & Polution", collecting, cleaning and visualizing data and applying Machine LEarning Algorithm to Predict the future gas emission/
+      ##### Arona-Chemie Co
+      
+      -  Conducted in-depth data analysis on livestock feed consumption and
+      nutritional outcomes, identifying trends that improved feed formulation
+      and optimized livestock health. This helped up to 15% cost-feed reductions.
       
       
-      - Using tsv data from IMDB Non-comercial website and applying various regression and algorithm to rate the movies based on some major crew of each movie (See [IMDB](https://developer.imdb.com/non-commercial-datasets/))
-    time: 2022-Present
+      - Applied advanced statistical methods, such as regression analysis, to evaluate the effect of various feed compositions on livestock performance.
   - content: >
       ### College Part-time Instructor
       
       ##### Conestoga College
 
       - Teaching Microsoft applications to 1000+ students
-    time: 2019-Present
+    time: 2019-2024
   - content: >
       ### Mechanical/Piping Engineer | Pipe Stress Analyst
 

@@ -1,12 +1,13 @@
 ---
 enable: true
-topTitle: Data Scientist, Instructor
+topTitle: Generative AI Data Scientist
 content: >
-  ## Hi my Name is Mehdi
+  ## Hi my name is Mehdi
 
-  Passionate about the never-ending world of “Data Science”,
-  I am [here](https://www.linkedin.com/in/mehdiyazdanian/),
-  to join you to find the right question to the right answer.
+  I'm passionate about the exciting, ever-changing world of data science,
+  and I'm all about using Generative AI to make a difference.
+  Check out my [LinkedIn](https://www.linkedin.com/in/mehdiyazdanian/),
+  Let me assist you or your team to ask the right questions and find meaningful answers.
 buttonName: Contact Mehdi Yazdanian
 buttonIcon: 'fa fa-envelope'
 buttonURL: "#contact"

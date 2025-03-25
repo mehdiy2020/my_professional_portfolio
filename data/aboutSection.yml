@@ -4,15 +4,13 @@ topTitle: About
 title: >
   ## Mehdi Yazdanian is
 
-  A professional engineer experienced in energy and education sectors.
+  A professional Mechanical Engineer with experienced in energy and education sectors.
 content: >
-  ### Mehdi looks for any un-solved problems or examine new prospective of solved ones to:
+  ### Mehdi specializes in developing and deploying generative models (such as LLMs)
+  to create text or other AI-generated content.
 
-  design and present applications that his audience can find the answer pretain to thier input cicumetances.
-  These applications should predict, evaluate and eventually render value for end-users.
-  
-  My family are the most important thing in the world.
-  Traveling, watching classical or international movies, reading social and political articles/books and workout are items that I do my best to accomodate them in my life
+  He trains and optimizes models, engineeering effective prompts, and implementing
+  retrieval-augmented generation (RAG) system to enhance output quality. 
 button1Name: LinkedIn
 button2Name: Download CV
 button1Target: https://www.linkedin.com/in/mehdiyazdanian/
