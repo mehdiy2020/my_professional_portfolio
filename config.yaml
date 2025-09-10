@@ -40,3 +40,6 @@ params:
     - icon: fa-linkedin-square
       url: https://www.linkedin.com/in/mehdiyazdanian/
       weight: 1
+    - icon: fa-hashtag
+      url: https://substack.com/@mydatatalks?utm_source=user-menu
+      weight: 2
