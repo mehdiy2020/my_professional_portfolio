@@ -19,7 +19,8 @@ title: Choose a Password - Stay Safe (Prototype)
 
 ✅ Python
 
-✅ Git GitHub Streamlit
+✅ Git GitHub 
 
+✅ Streamlit
 
 
