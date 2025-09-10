@@ -13,7 +13,6 @@ skill:
     percent: 70
   - title: Python
     percent: 70
-  - title: HTML | CSS
-    percent: 60
-  - title: Generative AI (Langchain | Huggingface)
-    percent: 50
+  - title: Git | GitHub
+    percent: 70
+  
